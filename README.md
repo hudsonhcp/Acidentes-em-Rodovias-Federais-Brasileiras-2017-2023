@@ -16,6 +16,8 @@ O projeto foi desenvolvido principalmente utilizando o Power BI.
 
 ## Apresentação dos Resultados
 
+Link para visualização do Dashboard: https://encr.pw/qABr6
+
 ![image](https://github.com/hudsonhcp/Acidentes-em-Rodovias-Federais-Brasileiras-2017-2023/assets/85201779/f69133a0-5f1a-4286-b49f-346ea108e154)
 
 
